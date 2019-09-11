@@ -31,7 +31,7 @@ var AnimalDetail = React.createClass({
           Co se potravy týče, nejčastěji si agamy pochutnávají na hmyzu. Čas od času si smlsnou i&nbsp;na drobných obratlovcích včetně ryb. Jen výjimečně okoštují i&nbsp;něco zeleného, většině agam totiž vegetariánství dvakrát nevoní. A proč by také mělo, když mají předpoklady k&nbsp;tomu být vynikajícími lovci – kromě plavání dokážou agamy také utíkat pouze po zadních nohou.
         </AnimalText>
         <AnimalText>
-          V&nbsp;naší zoo žije jeden sameček a dvě samičky. Samečka lze poznat podle toho, že je barevnější, má na hřbetě větší hřeben a má žlutooranžově zbarvený spodek krku. Jinak jsou všechny agamy svrchu zelené, trochu do hněda a mají světlá bříška. (Mimochodem, hřeben mají i samičky; samečci je do něj kousají během kopulace.)
+          Samečka lze od samičky odlišit podle toho, že je barevnější, má na hřbetě větší hřeben a má žlutooranžově zbarvený spodek krku. Jinak jsou všechny agamy svrchu zelené, trochu do hněda a mají světlá bříška. (Mimochodem, hřeben mají i samičky; samečci je do něj kousají během kopulace.)
         </AnimalText>
         <AnimalText>
           Agamy jsou vejcorodé. Snůšku kladou samičky do jamky v&nbsp;zemi, mláďata se líhnou po dvou až dvou a půl měsících, záleží na okolní teplotě. Délka života agam je 10–15 let.
